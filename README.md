@@ -1,8 +1,8 @@
-Cluster - Hera
+#Cluster - Hera
 
 http://hera.uthsc.edu/ganglia/
 
-[Headmaster]
+#[Headmaster]
 
 	Dell PowerEdge 2950 × 1
 
@@ -20,7 +20,7 @@ Extended Storage
 	Dell MD1000
 	15 TB
 	
-[Nodes]
+#[Nodes]
 
 	Dell PowerEdge R610 × 12
 
